@@ -1,0 +1,13 @@
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\bin\Debug\netcoreapp3.1\Huffman.exe
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\bin\Debug\netcoreapp3.1\Huffman.deps.json
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.json
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\bin\Debug\netcoreapp3.1\Huffman.runtimeconfig.dev.json
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\bin\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\bin\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.csprojAssemblyReference.cache
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfoInputs.cache
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.AssemblyInfo.cs
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.dll
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.pdb
+C:\Users\ebona\Dropbox\Защита информации\LAB4\Huffman\obj\Debug\netcoreapp3.1\Huffman.genruntimeconfig.cache
